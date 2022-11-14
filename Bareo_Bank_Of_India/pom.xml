@@ -47,7 +47,6 @@
   </dependencies>
   
   
-  <!-- Maven goal -->
  <build>
       <plugins>
         <plugin>
